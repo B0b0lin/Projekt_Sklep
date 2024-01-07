@@ -1,0 +1,17 @@
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\bin\Debug\net8.0\Aplikacja_sklep.exe
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\bin\Debug\net8.0\Aplikacja_sklep.deps.json
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\bin\Debug\net8.0\Aplikacja_sklep.runtimeconfig.json
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\bin\Debug\net8.0\Aplikacja_sklep.dll
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\bin\Debug\net8.0\Aplikacja_sklep.pdb
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.AssemblyInfoInputs.cache
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.AssemblyInfo.cs
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.csproj.CoreCompileInputs.cache
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.dll
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\refint\Aplikacja_sklep.dll
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.pdb
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.genruntimeconfig.cache
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\ref\Aplikacja_sklep.dll
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.csproj.AssemblyReference.cache
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Programowanie_obiektowe_lab\Aplikacja_sklep\obj\Debug\net8.0\Aplikacja_sklep.csproj.CopyComplete
