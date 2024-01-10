@@ -9,7 +9,7 @@ namespace Aplikacja_sklep
 {
     internal class PlatnoscClass
     {
-        public static void Platnosc(string num, int kwota)
+        public static void Platnosc(string num, float kwota)
         {
             string path = "kasa.json";
             switch (Validator.ValidateSwitch(num))

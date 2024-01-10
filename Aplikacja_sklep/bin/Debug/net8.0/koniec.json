@@ -1,0 +1,44 @@
+{
+  "KoniecDnia": [
+    {
+      "Name": "Suma zarobiona na koniec dnia",
+      "Quantity": 35,
+      "Kwota": 1558.0
+    },
+    {
+      "Name": "Myszka",
+      "Quantity": 2,
+      "Kwota": 192.0
+    },
+    {
+      "Name": "Podkladka",
+      "Quantity": 2,
+      "Kwota": 128.0
+    },
+    {
+      "Name": "CocaCola",
+      "Quantity": 5,
+      "Kwota": 30.0
+    },
+    {
+      "Name": "Frugo",
+      "Quantity": 10,
+      "Kwota": 70.0
+    },
+    {
+      "Name": "PC Gaming",
+      "Quantity": 12,
+      "Kwota": 532.0
+    },
+    {
+      "Name": "Sim Racing",
+      "Quantity": 1,
+      "Kwota": 120.0
+    },
+    {
+      "Name": "VR Spot",
+      "Quantity": 3,
+      "Kwota": 486.0
+    }
+  ]
+}

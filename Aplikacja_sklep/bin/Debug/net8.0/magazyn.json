@@ -1,0 +1,31 @@
+{
+  "NapojeList": [
+    {
+      "Name": "Monster",
+      "Quantity": 44,
+      "CenaNetto": 4.99
+    },
+    {
+      "Name": "CocaCola",
+      "Quantity": 5,
+      "CenaNetto": 3.5
+    },
+    {
+      "Name": "Frugo",
+      "Quantity": 0,
+      "CenaNetto": 4.59
+    }
+  ],
+  "AkcesoriaList": [
+    {
+      "Name": "Myszka",
+      "Quantity": 1,
+      "CenaNetto": 59.99
+    },
+    {
+      "Name": "Podkladka",
+      "Quantity": 0,
+      "CenaNetto": 39.99
+    }
+  ]
+}
