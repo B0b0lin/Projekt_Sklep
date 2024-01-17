@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Aplikacja_sklep
 {
-    internal class DBKoniecDnia
+    internal class DBKoniecDnia : DBCreator
     {
         public List<DBKoniec> KoniecDnia {  get; set; }
     }
 
-    internal class DBKoniec
+    internal class DBKoniec : DBKoniecDnia
     {
         public string Name { get; set; }
         public int Quantity { get; set; }

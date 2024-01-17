@@ -19,11 +19,10 @@ namespace Aplikacja_sklep
             {
                 bool dziala = true;
 
-                Console.Clear();
                 Console.WriteLine("== Klub Gamingowy ==");
                 Console.WriteLine("1. Stan kasy");
                 Console.WriteLine("2. Magazyn");
-                Console.WriteLine("3. Sprzedarz");
+                Console.WriteLine("3. Sprzedaz");
                 Console.WriteLine("4. Koniec Dnia");
                 Console.WriteLine("5. Zamknij");
                 Console.Write("Wybor: ");
@@ -69,7 +68,7 @@ namespace Aplikacja_sklep
                                 Console.WriteLine("2. Dodaj stan");
                                 Console.WriteLine("3. Nowy produkt");
                                 Console.WriteLine("4. Usun produkt");
-                                Console.WriteLine("5. Zamknij");
+                                Console.WriteLine("5. Powrot");
                                 Console.Write("Wybor: ");
                                 string temp = Convert.ToString(Console.ReadLine());
                                 if (temp == "5") { dziala = false; }
@@ -83,11 +82,11 @@ namespace Aplikacja_sklep
                             Console.Clear(); 
                             while (dziala)
                             {
-                                Console.WriteLine("== Sprzedarz ==");
+                                Console.WriteLine("== Sprzedaz ==");
                                 Console.WriteLine("1. Wejscia gry");
                                 Console.WriteLine("2. Napoje");
                                 Console.WriteLine("3. Akcesoria");
-                                Console.WriteLine("5. Zamknij");
+                                Console.WriteLine("5. Powrot");
                                 Console.Write("Wybor: ");
                                 string temp = Convert.ToString(Console.ReadLine());
                                 if (temp == "5") { dziala = false; }
@@ -103,7 +102,7 @@ namespace Aplikacja_sklep
                                 Console.WriteLine("===  Koniec Dnia  ===");
                                 Console.WriteLine("1. Wyswietl utarg");
                                 Console.WriteLine("2. Zakoncz dzien");
-                                Console.WriteLine("5. Zamknij");
+                                Console.WriteLine("5. Powrot");
                                 Console.Write("Wybor: ");
                                 string temp = Convert.ToString(Console.ReadLine());
                                 if (temp == "5") { dziala = false; }

@@ -11,14 +11,14 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Aplikacja_sklep
 {
-    internal class Sprzedaz
+    internal class Sprzedaz : Program
     {
        
         public static void Sprzedawca(string num)
         {
             bool dziala = true;
 
-            if (Validator.ValidateSwitch(num) < 4) 
+            if (Validator.ValidateSwitch(num) < 4 || Validator.ValidateSwitch(num)==5) 
             {
                 switch (Validator.ValidateSwitch(num))
                 {

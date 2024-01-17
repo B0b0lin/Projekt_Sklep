@@ -8,12 +8,12 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Aplikacja_sklep
 {
-    internal class Konto
+    internal class Konto : DBCreator
     {
         public List<DBStanKasy> StanKasys { get; set; }
     }
     
-    internal class DBStanKasy
+    internal class DBStanKasy :Konto
     {
         public string Name { get; set; }
         public float Value { get; set; }

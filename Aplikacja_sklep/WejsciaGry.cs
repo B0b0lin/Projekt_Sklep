@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Aplikacja_sklep
 {
-    internal class WejsciaGry
+    internal class WejsciaGry : Sprzedaz
     {
         public static void Gry(int num)
         {

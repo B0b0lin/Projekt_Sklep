@@ -8,7 +8,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Aplikacja_sklep
 {
-    internal class DBCreator
+    internal class DBCreator 
     {
         public static void DBKasa(string path)
         {

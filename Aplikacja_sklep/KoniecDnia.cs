@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Aplikacja_sklep
 {
-    internal class KoniecDnia
+    internal class KoniecDnia :Program
     {
         public static void KoniecMain(string num)
         {
             bool dziala = true;
 
-            if (Validator.ValidateSwitch(num) < 3)
+            if (Validator.ValidateSwitch(num) < 3 || Validator.ValidateSwitch(num) ==5)
             {
                 switch (Validator.ValidateSwitch(num))
                 {

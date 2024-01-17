@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Aplikacja_sklep
 {
-    internal class Magazyn
+    internal class Magazyn : Program
     {
         public static void MagazynMain(string num)
         {
