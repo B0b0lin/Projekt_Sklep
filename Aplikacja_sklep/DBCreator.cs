@@ -39,9 +39,7 @@ namespace Aplikacja_sklep
                         }
                     }
                 };
-
                 string kontoSerialized = JsonConvert.SerializeObject(konto);
-
                 File.WriteAllText(path, kontoSerialized);
             }
         }
